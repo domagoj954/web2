@@ -1,0 +1,118 @@
+
+
+/*TRENER*/
+
+
+.element-style{  /* 1e */
+  margin-top: 0px;
+  margin-bottom: 0px;
+  height: 800px;
+}
+
+
+.footer-style{ /* 2e */
+  height: 80px;
+}
+
+.footer-text-coach{ /* 3e */
+
+  width: 947.6px;
+}
+
+.footer-text-stadium{
+  width: 1018.800px;
+} 
+
+.footer-text-index{
+  width: 1018.800px;
+}
+
+.text-under-card-space{ /* 4e */
+  height:80px;
+}
+
+.text-translate{
+  transform: translateY(120%);   /* 5e */
+
+}
+
+.center-text-with-logo{
+  padding-left: 65px;
+}
+
+.padding-style-left{
+  padding-left: 20px;
+}
+
+.text-color-blue{
+  color: rgba(0, 77, 152)
+}
+
+.text-color-red{
+  color: rgba(168, 19, 62)
+}
+
+.img-margin{
+  margin-left: 200px;
+}
+
+
+.footer-margin{
+  margin-top: 200px;
+  margin-left: 40px;
+}
+
+.text-style{
+  font-size:50px;
+  margin-left: 370px;
+  height: 150px;
+}
+
+.link-padding{
+  padding-top: 20px;
+}
+
+.blue-color{
+  color: #007bff;
+}
+
+.players-padding{
+  padding-left: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+/*INDEX*/
+
+
+
+
+
+/*visina 140*/
+  
+
+/* 1e - za tekst trener */
+/* 2e - za handlanje footera*/
+/* 3e - proširen footer da se tekst može centrirati na sredinu*/
+/* 4e - veličina prostora za tekst ispod kartice*/
+/* 5e - translatiranje slova*/
+
+
+
+
+/*
+
+JAAAKKKOOO VAŽŽŽNOOO
+
+-> ide točka na početak, ja sam stavljao bez točke, stil se samo uvede kao div na željenu poziciju u htmlu
+-> bilo koji definirani style se može dodati u već definirani div class samo se odmakne sa razmakom
+-> nesšto se ne može ako povlaći i druge komponente, mora sve sadržavati inače ne radi gore navedene stavke
+
+*/
